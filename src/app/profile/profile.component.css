@@ -1,0 +1,48 @@
+.body,html{
+    margin: -8px;
+    margin-right: -8px;
+    margin-bottom: -8px;
+    margin-left: -8px;
+    padding: 0;
+    }
+     
+*{
+margin: 0;
+margin-bottom: 0;
+margin-right: 0;
+margin-left: 0;
+padding: 0;
+margin-bottom: 0;
+font:futura-lt-w01-light,sans-serif;
+}
+.lastpic{
+    
+         background-image: url(/assets/images/profile.jpg);
+          background-attachment: fixed;
+          background-size: cover;
+          height: 340px;
+          position: relative;
+          margin-top: 20px;
+      }
+.profile{
+    margin-left: 300px;
+    margin-right:300px;
+    border: 0.04em solid #BC9B5D;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    }
+    .profiletype{
+     color: #BC9B5D;
+     text-align: left;
+    padding: 30px;
+    font: italic normal normal 20px/1.4em 'libre baskerville',serif;
+    }
+    .signupbutton{
+        background-color: #BC9B5D;
+        color: #605E5E;
+        text-align: center;
+        border: none;
+        padding: 15px 52px;
+        margin-bottom: 20px;
+        cursor: pointer;
+      }
